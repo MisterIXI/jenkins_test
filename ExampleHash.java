@@ -15,7 +15,7 @@ import java.util.logging.Logger;
  */
 public class ExampleHash {
   private static final Logger LOGGER = Logger.getLogger(ExampleHash.class.getName());
-
+aefaefaefaef
   /**
    * Demonstrational method that hashes the plainText.
    * @param plainText
